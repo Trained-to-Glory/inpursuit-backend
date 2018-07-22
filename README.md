@@ -2,7 +2,7 @@
 
 This repo is to hold the calls and triggers for inpursuit.
 
-## Calls
+## Home.js
 
 #### My Pursuits
 
@@ -106,7 +106,7 @@ The remaining arrays should be ordered by category (first by interests that the 
 }
 
 ```
-## Home-Detail
+## Home-Detail.js
 
 #### Days 
 
@@ -165,7 +165,7 @@ This should return an array of responses related to a post. **This array is only
 ```
 #### Home-detail should also return arrays for the comments, challenges and users related to the pursuit. 
 
-## Chat
+## Chat.js
 
 #### Messages
 
