@@ -6,7 +6,7 @@ This repo is to hold the calls and triggers for inpursuit.
 
 #### My Pursuits
 
-The my pursuits arrray should display all pursuits owned or followed by the logged in user. 
+The my pursuits array should display all pursuits owned or followed by the logged in user. 
 
 ```
 
@@ -110,7 +110,7 @@ The remaining arrays should be ordered by category (first by interests that the 
 
 #### Days 
 
-The days array should be a return of post seperated by the last 24 hours i.e days. 
+The days array should be a return of post separated by the last 24 hours i.e days. 
 
 ```
 "rowLabel": "Day 1",
