@@ -125,6 +125,37 @@
                 "has_contributed" : 0
               }]
           }],
+          "solutions" : [{
+            "rowLabel" : "Responses",
+              "responses":[{
+                "solutionId": "Solution123",
+                "thumbnailUrl": "https://thumbnailUrl.com",
+                "description" : "Test 123",
+                "username" : "Test",
+                "number_of_upvotes" : 30,
+                "is_accepted" : 0,
+                "is_declined" : 0,
+                "has_contributed" : 0
+                }, {
+                  "solutionId": "Solution123",
+                  "thumbnailUrl": "https://thumbnailUrl.com",
+                  "description" : "Test 123",
+                  "username" : "Test",
+                  "number_of_upvotes" : 30,
+                  "is_accepted" : 0,
+                  "is_declined" : 0,
+                  "has_contributed" : 0
+                }, {
+                  "solutionId": "Solution123",
+                  "thumbnailUrl": "https://thumbnailUrl.com",
+                  "description" : "Test 123",
+                  "username" : "Test",
+                  "number_of_upvotes" : 30,
+                  "is_accepted" : 0,
+                  "is_declined" : 0,
+                  "has_contributed" : 0
+                }]
+            }],
           "comments" : [{
             "rowLabel" : "Comments",
               "content":[{
