@@ -222,7 +222,7 @@ This array should return a list of accounts the user follows.
 
 ## Triggers
 
-#### There logged in user should receive a trigger when:
+#### The user should receive a trigger when:
 
 1. A user adds them as a friend.
 2. A user comments on their pursuit.
