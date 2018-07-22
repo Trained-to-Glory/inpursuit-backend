@@ -1,0 +1,21 @@
+{
+  "chat-detail" : [{
+    "sender" : {
+      "userPhoto" : "https://userPhoto.com",
+      "userId" : "Test123",
+      "username" : "Test"
+      },
+      "recipentId" : "Test123",
+      "conversation" : [{
+        "message" : "Test 123",
+        "messageId": "Message123",
+        "timestamp" : "12424223",
+        "is_visible" : 0
+        }, {
+          "message" : "Test 123",
+          "messageId": "Message123",
+          "timestamp" : "12424223",
+          "is_visible" : 0
+      }]
+  }]
+}

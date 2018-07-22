@@ -1,0 +1,65 @@
+{
+  "chat" : [{
+      "messages" : [{
+          "sender" : {
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test123",
+            "username" : "Test"
+          },
+          "message" : "Test 123",
+          "messageId": "Message123",
+          "timestamp" : "12424223",
+          "postId" : "Post124",
+          "is_read" : 0
+        }, {
+          "sender" : [{
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test123",
+            "username" : "Test"
+          }, {
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test123",
+            "username" : "Test"
+          }],
+          "message" : "Test 123",
+          "messageId": "Message123",
+          "timestamp" : "12424223",
+          "postId" : "Post124",
+          "is_read" : 0
+        }, {
+          "sender" : [{
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test123",
+            "username" : "Test"
+          }, {
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test123",
+            "username" : "Test"
+          }, {
+            "userPhoto" : "https://userPhoto.com",
+            "userId" : "Test124",
+            "username" : "Test"
+          }],
+          "message" : "Test 123",
+          "messageId": "Message123",
+          "timestamp" : "12424223",
+          "postId" : "Post134",
+          "is_read" : 0
+        }]
+    }],
+    "users" : [{
+        "profiles":[{
+          "username" : "Test",
+          "userId" : "Test123",
+          "userPhoto": "https://userPhoto.com"
+          }, {
+          "username" : "Test",
+          "userId" : "Test123",
+          "userPhoto": "https://userPhoto.com"
+          }, {
+          "username" : "Test",
+          "userId" : "Test123",
+          "userPhoto": "https://userPhoto.com"
+          }]
+      }]
+}
