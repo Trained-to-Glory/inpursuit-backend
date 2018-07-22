@@ -142,7 +142,7 @@ The days array should be a return of post seperated by the last 24 hours i.e day
 
 ```
 
-### Responses 
+#### Responses 
 
 This should return an array of responses related to a post. **This array is only returned if the post is of type challenge.
 
@@ -205,7 +205,7 @@ The messages array should return an array of messages related to the logged in u
 
 ```
 
-### Friends
+#### Friends
 
 This array should return a list of accounts the user follows.
 
