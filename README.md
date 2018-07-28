@@ -2,6 +2,57 @@
 
 This repo is to hold the calls and triggers for inpursuit.
 
+## Links to access database
+
+### To access the user table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-user
+
+### To access the pursuits table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-pursuits
+
+### To access the posts table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-posts
+
+### To access the chat table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-chat
+
+### To access the chat detail table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-chat-detail
+
+### To access the pursuits follows table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-pursuit-follow
+
+### To access the interests table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-interest
+
+### To access the user interests table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-user-interest
+
+### To access the saved posts table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-posts-saved
+
+### To access the posts comments table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-posts-comments
+
+### To access the posts collaboration table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-posts-collaboration
+
+### To access the collaboration engagements table use:
+
+https://arcane-mesa-59373.herokuapp.com/get-mock-collaboration-engagements
+
+
 ## Home.js
 
 #### My Pursuits
